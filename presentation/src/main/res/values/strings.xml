@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="celsius_symbol">°C</string>
+    <string name="options_description">Open Options</string>
+    <string name="add_location">Add new location</string>
+    <string name="delete_location">Delete location</string>
+    <string name="location_deleted">Location deleted</string>
+    <string name="location_added">Location added!</string>
+    <string name="save_not_available">Sorry, you cannot add more locations.</string>
+    <string name="generic_error">Something went wrong. Please try again later</string>
+    <string name="search_location_label">Search location…</string>
+    <string name="back">Back</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv_index">UV Index</string>
+    <string name="wind">Wind</string>
+    <string name="visibility">Visibility</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="min_temp">Min Temperature</string>
+    <string name="max_temp">Max Temperature</string>
+</resources>
